@@ -1,4 +1,20 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "name": "Jon Snow",
+      "email": "jon@example.com",
+      "password": "123456",
+      "token": "mock-jwt-token"
+    },
+    {
+      "id": 2,
+      "name": "Arya Stark",
+      "email": "arya@example.com",
+      "password": "123456",
+      "token": "mock-jwt-token"
+    }
+  ],
   "employees": [
     {
       "id": 1,
