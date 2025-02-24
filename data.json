@@ -1,4 +1,27 @@
 {
+  "projects": [
+  {
+    "id": 1,
+    "name": "ERP System Development",
+    "startDate": "2023-04-15",
+    "endDate": "2024-06-30",
+    "deptId": 101
+  },
+  {
+    "id": 2,
+    "name": "E-Commerce Platform",
+    "startDate": "2022-09-10",
+    "endDate": "2024-12-01",
+    "deptId": 102
+  },
+  {
+    "id": 3,
+    "name": "AI Chatbot Integration",
+    "startDate": "2024-02-01",
+    "endDate": null,
+    "deptId": 102
+  }
+]
   "users": [
     {
       "id": 1,
