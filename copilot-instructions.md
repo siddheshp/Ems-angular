@@ -46,9 +46,6 @@ models/
 pages/
 shared/
 
-markdown
-Copy code
-
 - **Component Design**
 - Use `ChangeDetectionStrategy.OnPush` by default.
 - Keep templates clean; no business logic in HTML.
